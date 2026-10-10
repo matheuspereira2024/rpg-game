@@ -1,0 +1,25 @@
+{
+  "character": "Humano Clérigo",
+  "source_file": "Humano-Cl-rigo-spritesheet.zip",
+  "imported_at": "2026-09-16",
+  "source_frame_size": "256x256",
+  "runtime_frame_size": "68x68",
+  "states": {
+    "idle": 25,
+    "walk": 25,
+    "attack": 16
+  },
+  "directions": [
+    "north",
+    "north-east",
+    "east",
+    "south-east",
+    "south",
+    "south-west",
+    "west",
+    "north-west"
+  ],
+  "source_duration_seconds": 2.333,
+  "attack_source_name": "Projétil Sagrado",
+  "note": "V2 substitui Idle, Walk e Attack do runtime do Clérigo. O pacote V1 e o Idle anterior permanecem preservados. O projétil viajante é separado e sincronizado após o gesto de disparo."
+}

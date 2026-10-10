@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "applied_at": "2026-09-16",
+  "canvas_size": "68x68",
+  "target_idle_body_height": 48,
+  "target_baseline_y": 58,
+  "method": "One fixed nearest-neighbor scale per unit, applied around a shared horizontal center and foot baseline to every Idle, Walk and Attack frame in all eight directions.",
+  "units": [
+    {
+      "name": "Humano Guerreiro",
+      "scale": 1.067,
+      "source_baseline_y": 57
+    },
+    {
+      "name": "Humano Bárbaro",
+      "scale": 0.842,
+      "source_baseline_y": 62
+    },
+    {
+      "name": "Humano Caçador",
+      "scale": 1.2,
+      "source_baseline_y": 54
+    },
+    {
+      "name": "Humano Assassino",
+      "scale": 1.091,
+      "source_baseline_y": 56
+    },
+    {
+      "name": "Humano Clérigo",
+      "scale": 0.98,
+      "source_baseline_y": 57
+    },
+    {
+      "name": "Humano Mago",
+      "scale": 1.067,
+      "source_baseline_y": 58
+    },
+    {
+      "name": "Esqueleto Guerreiro",
+      "scale": 0.98,
+      "source_baseline_y": 56
+    }
+  ],
+  "processed_frames": 4272
+}

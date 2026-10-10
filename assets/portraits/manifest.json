@@ -1,0 +1,707 @@
+{
+  "source": "Arte Promocional/Raca-Classe/Versao 2 - Matriz Unica/Matriz-36-combinacoes-FINAL-v1.png",
+  "order": {
+    "rows": [
+      "Humano",
+      "Orc",
+      "Halfling",
+      "Anão",
+      "Elfo",
+      "Morto-vivo"
+    ],
+    "columns": [
+      "Caçador",
+      "Assassino",
+      "Mago",
+      "Clérigo",
+      "Guerreiro",
+      "Bárbaro"
+    ]
+  },
+  "portraits": [
+    {
+      "race": "Humano",
+      "class": "Caçador",
+      "file": "assets/portraits/humano/cacador.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 0,
+        "top": 0,
+        "width": 211,
+        "height": 231
+      },
+      "sourceContent": {
+        "left": 48,
+        "top": 29,
+        "width": 136,
+        "height": 202
+      }
+    },
+    {
+      "race": "Humano",
+      "class": "Assassino",
+      "file": "assets/portraits/humano/assassino.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 211,
+        "top": 0,
+        "width": 186,
+        "height": 231
+      },
+      "sourceContent": {
+        "left": 231,
+        "top": 38,
+        "width": 152,
+        "height": 193
+      }
+    },
+    {
+      "race": "Humano",
+      "class": "Mago",
+      "file": "assets/portraits/humano/mago.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 397,
+        "top": 0,
+        "width": 195,
+        "height": 231
+      },
+      "sourceContent": {
+        "left": 423,
+        "top": 20,
+        "width": 150,
+        "height": 211
+      }
+    },
+    {
+      "race": "Humano",
+      "class": "Clérigo",
+      "file": "assets/portraits/humano/clerigo.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 592,
+        "top": 0,
+        "width": 202,
+        "height": 231
+      },
+      "sourceContent": {
+        "left": 631,
+        "top": 27,
+        "width": 163,
+        "height": 204
+      }
+    },
+    {
+      "race": "Humano",
+      "class": "Guerreiro",
+      "file": "assets/portraits/humano/guerreiro.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 794,
+        "top": 0,
+        "width": 222,
+        "height": 231
+      },
+      "sourceContent": {
+        "left": 810,
+        "top": 46,
+        "width": 192,
+        "height": 185
+      }
+    },
+    {
+      "race": "Humano",
+      "class": "Bárbaro",
+      "file": "assets/portraits/humano/barbaro.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 1016,
+        "top": 0,
+        "width": 224,
+        "height": 231
+      },
+      "sourceContent": {
+        "left": 1028,
+        "top": 23,
+        "width": 201,
+        "height": 208
+      }
+    },
+    {
+      "race": "Orc",
+      "class": "Caçador",
+      "file": "assets/portraits/orc/cacador.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 0,
+        "top": 231,
+        "width": 211,
+        "height": 223
+      },
+      "sourceContent": {
+        "left": 45,
+        "top": 240,
+        "width": 143,
+        "height": 210
+      }
+    },
+    {
+      "race": "Orc",
+      "class": "Assassino",
+      "file": "assets/portraits/orc/assassino.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 211,
+        "top": 231,
+        "width": 186,
+        "height": 223
+      },
+      "sourceContent": {
+        "left": 230,
+        "top": 253,
+        "width": 152,
+        "height": 196
+      }
+    },
+    {
+      "race": "Orc",
+      "class": "Mago",
+      "file": "assets/portraits/orc/mago.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 397,
+        "top": 231,
+        "width": 195,
+        "height": 223
+      },
+      "sourceContent": {
+        "left": 419,
+        "top": 255,
+        "width": 153,
+        "height": 195
+      }
+    },
+    {
+      "race": "Orc",
+      "class": "Clérigo",
+      "file": "assets/portraits/orc/clerigo.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 592,
+        "top": 231,
+        "width": 202,
+        "height": 223
+      },
+      "sourceContent": {
+        "left": 625,
+        "top": 240,
+        "width": 169,
+        "height": 210
+      }
+    },
+    {
+      "race": "Orc",
+      "class": "Guerreiro",
+      "file": "assets/portraits/orc/guerreiro.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 794,
+        "top": 231,
+        "width": 222,
+        "height": 223
+      },
+      "sourceContent": {
+        "left": 807,
+        "top": 242,
+        "width": 195,
+        "height": 208
+      }
+    },
+    {
+      "race": "Orc",
+      "class": "Bárbaro",
+      "file": "assets/portraits/orc/barbaro.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 1016,
+        "top": 231,
+        "width": 224,
+        "height": 223
+      },
+      "sourceContent": {
+        "left": 1027,
+        "top": 231,
+        "width": 213,
+        "height": 220
+      }
+    },
+    {
+      "race": "Halfling",
+      "class": "Caçador",
+      "file": "assets/portraits/halfling/cacador.png",
+      "canvas": "256x256",
+      "scale": "92%",
+      "sourceCell": {
+        "left": 0,
+        "top": 454,
+        "width": 211,
+        "height": 190
+      },
+      "sourceContent": {
+        "left": 24,
+        "top": 470,
+        "width": 162,
+        "height": 173
+      }
+    },
+    {
+      "race": "Halfling",
+      "class": "Assassino",
+      "file": "assets/portraits/halfling/assassino.png",
+      "canvas": "256x256",
+      "scale": "92%",
+      "sourceCell": {
+        "left": 211,
+        "top": 454,
+        "width": 186,
+        "height": 190
+      },
+      "sourceContent": {
+        "left": 238,
+        "top": 470,
+        "width": 137,
+        "height": 174
+      }
+    },
+    {
+      "race": "Halfling",
+      "class": "Mago",
+      "file": "assets/portraits/halfling/mago.png",
+      "canvas": "256x256",
+      "scale": "92%",
+      "sourceCell": {
+        "left": 397,
+        "top": 454,
+        "width": 195,
+        "height": 190
+      },
+      "sourceContent": {
+        "left": 420,
+        "top": 459,
+        "width": 144,
+        "height": 184
+      }
+    },
+    {
+      "race": "Halfling",
+      "class": "Clérigo",
+      "file": "assets/portraits/halfling/clerigo.png",
+      "canvas": "256x256",
+      "scale": "92%",
+      "sourceCell": {
+        "left": 592,
+        "top": 454,
+        "width": 202,
+        "height": 190
+      },
+      "sourceContent": {
+        "left": 627,
+        "top": 458,
+        "width": 163,
+        "height": 185
+      }
+    },
+    {
+      "race": "Halfling",
+      "class": "Guerreiro",
+      "file": "assets/portraits/halfling/guerreiro.png",
+      "canvas": "256x256",
+      "scale": "92%",
+      "sourceCell": {
+        "left": 794,
+        "top": 454,
+        "width": 222,
+        "height": 190
+      },
+      "sourceContent": {
+        "left": 824,
+        "top": 481,
+        "width": 170,
+        "height": 162
+      }
+    },
+    {
+      "race": "Halfling",
+      "class": "Bárbaro",
+      "file": "assets/portraits/halfling/barbaro.png",
+      "canvas": "256x256",
+      "scale": "92%",
+      "sourceCell": {
+        "left": 1016,
+        "top": 454,
+        "width": 224,
+        "height": 190
+      },
+      "sourceContent": {
+        "left": 1034,
+        "top": 476,
+        "width": 191,
+        "height": 168
+      }
+    },
+    {
+      "race": "Anão",
+      "class": "Caçador",
+      "file": "assets/portraits/anao/cacador.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 0,
+        "top": 644,
+        "width": 211,
+        "height": 203
+      },
+      "sourceContent": {
+        "left": 39,
+        "top": 659,
+        "width": 149,
+        "height": 188
+      }
+    },
+    {
+      "race": "Anão",
+      "class": "Assassino",
+      "file": "assets/portraits/anao/assassino.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 211,
+        "top": 644,
+        "width": 186,
+        "height": 203
+      },
+      "sourceContent": {
+        "left": 230,
+        "top": 659,
+        "width": 153,
+        "height": 188
+      }
+    },
+    {
+      "race": "Anão",
+      "class": "Mago",
+      "file": "assets/portraits/anao/mago.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 397,
+        "top": 644,
+        "width": 195,
+        "height": 203
+      },
+      "sourceContent": {
+        "left": 423,
+        "top": 660,
+        "width": 151,
+        "height": 187
+      }
+    },
+    {
+      "race": "Anão",
+      "class": "Clérigo",
+      "file": "assets/portraits/anao/clerigo.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 592,
+        "top": 644,
+        "width": 202,
+        "height": 203
+      },
+      "sourceContent": {
+        "left": 616,
+        "top": 644,
+        "width": 174,
+        "height": 203
+      }
+    },
+    {
+      "race": "Anão",
+      "class": "Guerreiro",
+      "file": "assets/portraits/anao/guerreiro.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 794,
+        "top": 644,
+        "width": 222,
+        "height": 203
+      },
+      "sourceContent": {
+        "left": 794,
+        "top": 670,
+        "width": 210,
+        "height": 177
+      }
+    },
+    {
+      "race": "Anão",
+      "class": "Bárbaro",
+      "file": "assets/portraits/anao/barbaro.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 1016,
+        "top": 644,
+        "width": 224,
+        "height": 203
+      },
+      "sourceContent": {
+        "left": 1028,
+        "top": 648,
+        "width": 212,
+        "height": 199
+      }
+    },
+    {
+      "race": "Elfo",
+      "class": "Caçador",
+      "file": "assets/portraits/elfo/cacador.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 0,
+        "top": 847,
+        "width": 211,
+        "height": 208
+      },
+      "sourceContent": {
+        "left": 50,
+        "top": 851,
+        "width": 137,
+        "height": 204
+      }
+    },
+    {
+      "race": "Elfo",
+      "class": "Assassino",
+      "file": "assets/portraits/elfo/assassino.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 211,
+        "top": 847,
+        "width": 186,
+        "height": 208
+      },
+      "sourceContent": {
+        "left": 230,
+        "top": 864,
+        "width": 150,
+        "height": 191
+      }
+    },
+    {
+      "race": "Elfo",
+      "class": "Mago",
+      "file": "assets/portraits/elfo/mago.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 397,
+        "top": 847,
+        "width": 195,
+        "height": 208
+      },
+      "sourceContent": {
+        "left": 414,
+        "top": 849,
+        "width": 154,
+        "height": 206
+      }
+    },
+    {
+      "race": "Elfo",
+      "class": "Clérigo",
+      "file": "assets/portraits/elfo/clerigo.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 592,
+        "top": 847,
+        "width": 202,
+        "height": 201
+      },
+      "sourceContent": {
+        "left": 625,
+        "top": 851,
+        "width": 165,
+        "height": 197
+      }
+    },
+    {
+      "race": "Elfo",
+      "class": "Guerreiro",
+      "file": "assets/portraits/elfo/guerreiro.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 794,
+        "top": 847,
+        "width": 222,
+        "height": 208
+      },
+      "sourceContent": {
+        "left": 803,
+        "top": 867,
+        "width": 200,
+        "height": 188
+      }
+    },
+    {
+      "race": "Elfo",
+      "class": "Bárbaro",
+      "file": "assets/portraits/elfo/barbaro.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 1016,
+        "top": 847,
+        "width": 224,
+        "height": 208
+      },
+      "sourceContent": {
+        "left": 1029,
+        "top": 847,
+        "width": 200,
+        "height": 208
+      }
+    },
+    {
+      "race": "Morto-vivo",
+      "class": "Caçador",
+      "file": "assets/portraits/morto-vivo/cacador.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 0,
+        "top": 1055,
+        "width": 211,
+        "height": 213
+      },
+      "sourceContent": {
+        "left": 27,
+        "top": 1065,
+        "width": 163,
+        "height": 190
+      }
+    },
+    {
+      "race": "Morto-vivo",
+      "class": "Assassino",
+      "file": "assets/portraits/morto-vivo/assassino.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 211,
+        "top": 1055,
+        "width": 186,
+        "height": 213
+      },
+      "sourceContent": {
+        "left": 231,
+        "top": 1065,
+        "width": 149,
+        "height": 190
+      }
+    },
+    {
+      "race": "Morto-vivo",
+      "class": "Mago",
+      "file": "assets/portraits/morto-vivo/mago.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 397,
+        "top": 1055,
+        "width": 195,
+        "height": 213
+      },
+      "sourceContent": {
+        "left": 418,
+        "top": 1055,
+        "width": 150,
+        "height": 200
+      }
+    },
+    {
+      "race": "Morto-vivo",
+      "class": "Cultista Sombrio",
+      "file": "assets/portraits/morto-vivo/cultista-sombrio.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 592,
+        "top": 1055,
+        "width": 202,
+        "height": 213
+      },
+      "sourceContent": {
+        "left": 611,
+        "top": 1055,
+        "width": 183,
+        "height": 202
+      }
+    },
+    {
+      "race": "Morto-vivo",
+      "class": "Guerreiro",
+      "file": "assets/portraits/morto-vivo/guerreiro.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 794,
+        "top": 1055,
+        "width": 222,
+        "height": 213
+      },
+      "sourceContent": {
+        "left": 802,
+        "top": 1069,
+        "width": 195,
+        "height": 186
+      }
+    },
+    {
+      "race": "Morto-vivo",
+      "class": "Bárbaro",
+      "file": "assets/portraits/morto-vivo/barbaro.png",
+      "canvas": "256x256",
+      "scale": "100%",
+      "sourceCell": {
+        "left": 1016,
+        "top": 1055,
+        "width": 224,
+        "height": 213
+      },
+      "sourceContent": {
+        "left": 1029,
+        "top": 1055,
+        "width": 200,
+        "height": 203
+      }
+    }
+  ]
+}

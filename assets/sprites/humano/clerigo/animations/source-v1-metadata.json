@@ -1,0 +1,25 @@
+{
+  "character": "Humano Clérigo",
+  "source_file": "Humano-Cl-rigo-spritesheet.zip",
+  "imported_at": "2026-09-15",
+  "source_frame_size": "256x256",
+  "runtime_frame_size": "68x68",
+  "states": [
+    "idle",
+    "walk",
+    "attack"
+  ],
+  "directions": [
+    "north",
+    "north-east",
+    "east",
+    "south-east",
+    "south",
+    "south-west",
+    "west",
+    "north-west"
+  ],
+  "frames_per_animation": 25,
+  "source_duration_seconds": 2.333,
+  "note": "Attack também representa Tiro Preciso, Projétil Sagrado e Projétil Arcano nas classes à distância."
+}

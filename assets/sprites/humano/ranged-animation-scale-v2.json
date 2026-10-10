@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "applied_at": "2026-09-16",
+  "walk": {
+    "units": [
+      "Humano Caçador",
+      "Humano Assassino"
+    ],
+    "method": "Per-direction median opaque height; abrupt baseline outliers are replaced by the circular three-frame median.",
+    "adjusted_frames": 400,
+    "loop_closure_corrections": 3
+  },
+  "hunter_attack": {
+    "relative_scale": 0.92,
+    "target_baseline_y": 57,
+    "adjusted_frames": 200
+  }
+}

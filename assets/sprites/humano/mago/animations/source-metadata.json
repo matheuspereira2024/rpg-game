@@ -1,0 +1,258 @@
+{
+  "group_id": "7797e51f-68d0-4dd2-a786-c0038b05fa45",
+  "states": [
+    {
+      "character": {
+        "id": "92ce8875-b687-4a11-b6fa-894aa15e1600",
+        "name": "Idle",
+        "prompt": "Mago humano com tunica e cajado com pedra magica azul.",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-09-12T01:44:36.377406+00:00"
+      },
+      "folder": "Idle",
+      "frames": {
+        "rotations": {
+          "south": "Idle/rotations/south.png",
+          "south-east": "Idle/rotations/south-east.png",
+          "east": "Idle/rotations/east.png",
+          "north-east": "Idle/rotations/north-east.png",
+          "north": "Idle/rotations/north.png",
+          "north-west": "Idle/rotations/north-west.png",
+          "west": "Idle/rotations/west.png",
+          "south-west": "Idle/rotations/south-west.png"
+        },
+        "animations": {
+          "The_wizard_stands_in_a_steady_upright_posture_whil": {
+            "west": [
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/west/frame_000.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/west/frame_001.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/west/frame_002.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/west/frame_003.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/west/frame_004.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/west/frame_005.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/west/frame_006.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/west/frame_007.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/west/frame_008.png"
+            ],
+            "south": [
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south/frame_000.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south/frame_001.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south/frame_002.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south/frame_003.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south/frame_004.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south/frame_005.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south/frame_006.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south/frame_007.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south/frame_008.png"
+            ],
+            "east": [
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/east/frame_000.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/east/frame_001.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/east/frame_002.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/east/frame_003.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/east/frame_004.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/east/frame_005.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/east/frame_006.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/east/frame_007.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/east/frame_008.png"
+            ],
+            "north": [
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north/frame_000.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north/frame_001.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north/frame_002.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north/frame_003.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north/frame_004.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north/frame_005.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north/frame_006.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north/frame_007.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north/frame_008.png"
+            ],
+            "north-west-4ac93db7": [
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-4ac93db7/frame_000.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-4ac93db7/frame_001.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-4ac93db7/frame_002.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-4ac93db7/frame_003.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-4ac93db7/frame_004.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-4ac93db7/frame_005.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-4ac93db7/frame_006.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-4ac93db7/frame_007.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-4ac93db7/frame_008.png"
+            ],
+            "south-west": [
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-west/frame_000.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-west/frame_001.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-west/frame_002.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-west/frame_003.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-west/frame_004.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-west/frame_005.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-west/frame_006.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-west/frame_007.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-west/frame_008.png"
+            ],
+            "south-east": [
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-east/frame_000.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-east/frame_001.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-east/frame_002.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-east/frame_003.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-east/frame_004.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-east/frame_005.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-east/frame_006.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-east/frame_007.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/south-east/frame_008.png"
+            ],
+            "north-west-a29d239d": [
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-a29d239d/frame_000.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-a29d239d/frame_001.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-a29d239d/frame_002.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-a29d239d/frame_003.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-a29d239d/frame_004.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-a29d239d/frame_005.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-a29d239d/frame_006.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-a29d239d/frame_007.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-west-a29d239d/frame_008.png"
+            ],
+            "north-east": [
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-east/frame_000.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-east/frame_001.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-east/frame_002.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-east/frame_003.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-east/frame_004.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-east/frame_005.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-east/frame_006.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-east/frame_007.png",
+              "Idle/animations/The_wizard_stands_in_a_steady_upright_posture_whil/north-east/frame_008.png"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "character": {
+        "id": "73b0a906-547c-4132-a353-16b00847d595",
+        "name": "walk loop",
+        "prompt": "Mago humano com tunica e cajado com pedra magica azul.",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-09-12T19:06:11.656096+00:00"
+      },
+      "folder": "walk_loop",
+      "frames": {
+        "rotations": {
+          "south": "walk_loop/rotations/south.png",
+          "south-east": "walk_loop/rotations/south-east.png",
+          "east": "walk_loop/rotations/east.png",
+          "north-east": "walk_loop/rotations/north-east.png",
+          "north": "walk_loop/rotations/north.png",
+          "north-west": "walk_loop/rotations/north-west.png",
+          "west": "walk_loop/rotations/west.png",
+          "south-west": "walk_loop/rotations/south-west.png"
+        },
+        "animations": {
+          "The_wizard_walks_forward_with_a_rhythmic_gait_his": {
+            "north": [
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north/frame_000.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north/frame_001.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north/frame_002.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north/frame_003.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north/frame_004.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north/frame_005.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north/frame_006.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north/frame_007.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north/frame_008.png"
+            ],
+            "east": [
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/east/frame_000.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/east/frame_001.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/east/frame_002.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/east/frame_003.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/east/frame_004.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/east/frame_005.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/east/frame_006.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/east/frame_007.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/east/frame_008.png"
+            ],
+            "north-west": [
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-west/frame_000.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-west/frame_001.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-west/frame_002.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-west/frame_003.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-west/frame_004.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-west/frame_005.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-west/frame_006.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-west/frame_007.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-west/frame_008.png"
+            ],
+            "south-east": [
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-east/frame_000.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-east/frame_001.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-east/frame_002.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-east/frame_003.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-east/frame_004.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-east/frame_005.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-east/frame_006.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-east/frame_007.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-east/frame_008.png"
+            ],
+            "north-east": [
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-east/frame_000.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-east/frame_001.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-east/frame_002.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-east/frame_003.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-east/frame_004.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-east/frame_005.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-east/frame_006.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-east/frame_007.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/north-east/frame_008.png"
+            ],
+            "south-west": [
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-west/frame_000.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-west/frame_001.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-west/frame_002.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-west/frame_003.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-west/frame_004.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-west/frame_005.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-west/frame_006.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-west/frame_007.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south-west/frame_008.png"
+            ],
+            "south": [
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south/frame_000.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south/frame_001.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south/frame_002.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south/frame_003.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south/frame_004.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south/frame_005.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south/frame_006.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south/frame_007.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/south/frame_008.png"
+            ],
+            "west": [
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/west/frame_000.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/west/frame_001.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/west/frame_002.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/west/frame_003.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/west/frame_004.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/west/frame_005.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/west/frame_006.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/west/frame_007.png",
+              "walk_loop/animations/The_wizard_walks_forward_with_a_rhythmic_gait_his/west/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-09-12T19:15:21.687154"
+}

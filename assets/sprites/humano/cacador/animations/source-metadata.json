@@ -1,0 +1,247 @@
+{
+  "group_id": "388b0e6c-c65d-4a20-a059-9afb6deb40b5",
+  "states": [
+    {
+      "character": {
+        "id": "fe29045c-7169-4750-9691-dd4e7eee8236",
+        "name": "Idle",
+        "prompt": "Ca\u00e7ador humano com arco na m\u00e3o e aljava nas costas",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-09-12T01:41:33.624923+00:00"
+      },
+      "folder": "Idle",
+      "frames": {
+        "rotations": {
+          "south": "Idle/rotations/south.png",
+          "south-east": "Idle/rotations/south-east.png",
+          "east": "Idle/rotations/east.png",
+          "north-east": "Idle/rotations/north-east.png",
+          "north": "Idle/rotations/north.png",
+          "north-west": "Idle/rotations/north-west.png",
+          "west": "Idle/rotations/west.png",
+          "south-west": "Idle/rotations/south-west.png"
+        },
+        "animations": {
+          "The_archer_stands_firmly_in_place_his_posture_rema": {
+            "west": [
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/west/frame_000.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/west/frame_001.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/west/frame_002.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/west/frame_003.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/west/frame_004.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/west/frame_005.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/west/frame_006.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/west/frame_007.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/west/frame_008.png"
+            ],
+            "north": [
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north/frame_000.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north/frame_001.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north/frame_002.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north/frame_003.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north/frame_004.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north/frame_005.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north/frame_006.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north/frame_007.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north/frame_008.png"
+            ],
+            "east": [
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/east/frame_000.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/east/frame_001.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/east/frame_002.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/east/frame_003.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/east/frame_004.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/east/frame_005.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/east/frame_006.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/east/frame_007.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/east/frame_008.png"
+            ],
+            "south": [
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south/frame_000.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south/frame_001.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south/frame_002.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south/frame_003.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south/frame_004.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south/frame_005.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south/frame_006.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south/frame_007.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south/frame_008.png"
+            ],
+            "south-east": [
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-east/frame_000.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-east/frame_001.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-east/frame_002.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-east/frame_003.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-east/frame_004.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-east/frame_005.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-east/frame_006.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-east/frame_007.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-east/frame_008.png"
+            ],
+            "south-west": [
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-west/frame_000.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-west/frame_001.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-west/frame_002.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-west/frame_003.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-west/frame_004.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-west/frame_005.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-west/frame_006.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-west/frame_007.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/south-west/frame_008.png"
+            ],
+            "north-west": [
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-west/frame_000.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-west/frame_001.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-west/frame_002.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-west/frame_003.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-west/frame_004.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-west/frame_005.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-west/frame_006.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-west/frame_007.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-west/frame_008.png"
+            ],
+            "north-east": [
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-east/frame_000.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-east/frame_001.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-east/frame_002.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-east/frame_003.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-east/frame_004.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-east/frame_005.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-east/frame_006.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-east/frame_007.png",
+              "Idle/animations/The_archer_stands_firmly_in_place_his_posture_rema/north-east/frame_008.png"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "character": {
+        "id": "c5ce8f45-f985-4b27-bb31-9a9f6597228b",
+        "name": "walk",
+        "prompt": "Ca\u00e7ador humano com arco na m\u00e3o e aljava nas costas",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-09-12T17:09:21.619312+00:00"
+      },
+      "folder": "walk",
+      "frames": {
+        "rotations": {
+          "south": "walk/rotations/south.png",
+          "south-east": "walk/rotations/south-east.png",
+          "east": "walk/rotations/east.png",
+          "north-east": "walk/rotations/north-east.png",
+          "north": "walk/rotations/north.png",
+          "north-west": "walk/rotations/north-west.png",
+          "west": "walk/rotations/west.png",
+          "south-west": "walk/rotations/south-west.png"
+        },
+        "animations": {
+          "The_archer_walks_forward_with_a_steady_rhythmic_ga": {
+            "south": [
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south/frame_000.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south/frame_001.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south/frame_002.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south/frame_003.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south/frame_004.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south/frame_005.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south/frame_006.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south/frame_007.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south/frame_008.png"
+            ],
+            "north-east": [
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-east/frame_000.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-east/frame_001.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-east/frame_002.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-east/frame_003.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-east/frame_004.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-east/frame_005.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-east/frame_006.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-east/frame_007.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-east/frame_008.png"
+            ],
+            "north-west": [
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-west/frame_000.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-west/frame_001.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-west/frame_002.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-west/frame_003.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-west/frame_004.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-west/frame_005.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-west/frame_006.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-west/frame_007.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north-west/frame_008.png"
+            ],
+            "east": [
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/east/frame_000.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/east/frame_001.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/east/frame_002.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/east/frame_003.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/east/frame_004.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/east/frame_005.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/east/frame_006.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/east/frame_007.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/east/frame_008.png"
+            ],
+            "south-west": [
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-west/frame_000.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-west/frame_001.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-west/frame_002.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-west/frame_003.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-west/frame_004.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-west/frame_005.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-west/frame_006.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-west/frame_007.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-west/frame_008.png"
+            ],
+            "west": [
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/west/frame_000.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/west/frame_001.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/west/frame_002.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/west/frame_003.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/west/frame_004.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/west/frame_005.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/west/frame_006.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/west/frame_007.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/west/frame_008.png"
+            ],
+            "south-east": [
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-east/frame_000.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-east/frame_001.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-east/frame_002.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-east/frame_003.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-east/frame_004.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-east/frame_005.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-east/frame_006.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-east/frame_007.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/south-east/frame_008.png"
+            ],
+            "north": [
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north/frame_000.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north/frame_001.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north/frame_002.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north/frame_003.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north/frame_004.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north/frame_005.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north/frame_006.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north/frame_007.png",
+              "walk/animations/The_archer_walks_forward_with_a_steady_rhythmic_ga/north/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-09-12T19:16:01.878777"
+}

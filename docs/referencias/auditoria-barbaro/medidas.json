@@ -1,0 +1,155 @@
+[
+  {
+    "state": "idle",
+    "file": "C:\\Users\\mmach\\OneDrive\\Documentos\\GIT\\RPG Game\\assets\\sprites\\humano\\animations\\barbaro-idle-semirrelaxado-v1-spaced-v1.png",
+    "frames": 6,
+    "size": [
+      13794,
+      1254
+    ],
+    "alpha_bboxes": [
+      [
+        0,
+        33,
+        1236,
+        1238
+      ],
+      [
+        0,
+        31,
+        1236,
+        1239
+      ],
+      [
+        0,
+        28,
+        1236,
+        1238
+      ],
+      [
+        0,
+        31,
+        1236,
+        1239
+      ],
+      [
+        0,
+        33,
+        1236,
+        1238
+      ],
+      [
+        0,
+        35,
+        1236,
+        1237
+      ]
+    ],
+    "public_matches": true,
+    "transparent_gutters": true
+  },
+  {
+    "state": "walk",
+    "file": "C:\\Users\\mmach\\OneDrive\\Documentos\\GIT\\RPG Game\\assets\\sprites\\humano\\animations\\barbaro-walk-direita-v1-spaced-v1.png",
+    "frames": 7,
+    "size": [
+      4290,
+      724
+    ],
+    "alpha_bboxes": [
+      [
+        21,
+        160,
+        320,
+        556
+      ],
+      [
+        17,
+        154,
+        308,
+        557
+      ],
+      [
+        29,
+        159,
+        310,
+        557
+      ],
+      [
+        12,
+        160,
+        319,
+        556
+      ],
+      [
+        8,
+        154,
+        313,
+        557
+      ],
+      [
+        29,
+        159,
+        313,
+        557
+      ],
+      [
+        16,
+        155,
+        314,
+        556
+      ]
+    ],
+    "public_matches": false,
+    "transparent_gutters": true
+  },
+  {
+    "state": "attack",
+    "file": "C:\\Users\\mmach\\OneDrive\\Documentos\\GIT\\RPG Game\\assets\\sprites\\humano\\animations\\barbaro-ataque-basico-direita-v1-spaced-v1.png",
+    "frames": 6,
+    "size": [
+      5500,
+      724
+    ],
+    "alpha_bboxes": [
+      [
+        112,
+        244,
+        374,
+        557
+      ],
+      [
+        120,
+        179,
+        371,
+        557
+      ],
+      [
+        123,
+        178,
+        401,
+        557
+      ],
+      [
+        73,
+        234,
+        480,
+        557
+      ],
+      [
+        51,
+        244,
+        480,
+        557
+      ],
+      [
+        133,
+        244,
+        391,
+        557
+      ]
+    ],
+    "public_matches": true,
+    "transparent_gutters": true
+  }
+]

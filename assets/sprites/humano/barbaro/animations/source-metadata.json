@@ -1,0 +1,487 @@
+{
+  "group_id": "c36ed98d-fd57-47f2-8b02-85edfbc523bc",
+  "states": [
+    {
+      "character": {
+        "id": "918ed831-6ce9-46d9-9373-e116976c2309",
+        "name": "Idle",
+        "prompt": "Barbaro Humano com machado nas costas.",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-09-12T01:40:06.164155+00:00"
+      },
+      "folder": "Idle",
+      "frames": {
+        "rotations": {
+          "south": "Idle/rotations/south.png",
+          "south-east": "Idle/rotations/south-east.png",
+          "east": "Idle/rotations/east.png",
+          "north-east": "Idle/rotations/north-east.png",
+          "north": "Idle/rotations/north.png",
+          "north-west": "Idle/rotations/north-west.png",
+          "west": "Idle/rotations/west.png",
+          "south-west": "Idle/rotations/south-west.png"
+        },
+        "animations": {
+          "The_barbarian_stands_firmly_in_place_his_chest_ris": {
+            "east": [
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/east/frame_000.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/east/frame_001.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/east/frame_002.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/east/frame_003.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/east/frame_004.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/east/frame_005.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/east/frame_006.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/east/frame_007.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/east/frame_008.png"
+            ],
+            "south": [
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south/frame_000.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south/frame_001.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south/frame_002.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south/frame_003.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south/frame_004.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south/frame_005.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south/frame_006.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south/frame_007.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south/frame_008.png"
+            ],
+            "south-east": [
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-east/frame_000.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-east/frame_001.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-east/frame_002.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-east/frame_003.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-east/frame_004.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-east/frame_005.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-east/frame_006.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-east/frame_007.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-east/frame_008.png"
+            ],
+            "north-west": [
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-west/frame_000.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-west/frame_001.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-west/frame_002.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-west/frame_003.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-west/frame_004.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-west/frame_005.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-west/frame_006.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-west/frame_007.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-west/frame_008.png"
+            ],
+            "north": [
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north/frame_000.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north/frame_001.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north/frame_002.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north/frame_003.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north/frame_004.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north/frame_005.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north/frame_006.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north/frame_007.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north/frame_008.png"
+            ],
+            "south-west": [
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-west/frame_000.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-west/frame_001.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-west/frame_002.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-west/frame_003.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-west/frame_004.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-west/frame_005.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-west/frame_006.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-west/frame_007.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/south-west/frame_008.png"
+            ],
+            "north-east": [
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-east/frame_000.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-east/frame_001.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-east/frame_002.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-east/frame_003.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-east/frame_004.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-east/frame_005.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-east/frame_006.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-east/frame_007.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/north-east/frame_008.png"
+            ],
+            "west": [
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/west/frame_000.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/west/frame_001.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/west/frame_002.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/west/frame_003.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/west/frame_004.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/west/frame_005.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/west/frame_006.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/west/frame_007.png",
+              "Idle/animations/The_barbarian_stands_firmly_in_place_his_chest_ris/west/frame_008.png"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "character": {
+        "id": "cd988edb-26a8-4e0a-b7dd-c0d4fd31ef52",
+        "name": "walk",
+        "prompt": "Barbaro Humano com machado nas costas.",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-09-12T04:37:11.935970+00:00"
+      },
+      "folder": "walk",
+      "frames": {
+        "rotations": {
+          "south": "walk/rotations/south.png",
+          "south-east": "walk/rotations/south-east.png",
+          "east": "walk/rotations/east.png",
+          "north-east": "walk/rotations/north-east.png",
+          "north": "walk/rotations/north.png",
+          "north-west": "walk/rotations/north-west.png",
+          "west": "walk/rotations/west.png",
+          "south-west": "walk/rotations/south-west.png"
+        },
+        "animations": {
+          "The_character_steps_forward_with_his_right_foot_sh": {
+            "north": [
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north/frame_000.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north/frame_001.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north/frame_002.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north/frame_003.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north/frame_004.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north/frame_005.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north/frame_006.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north/frame_007.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north/frame_008.png"
+            ],
+            "west": [
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/west/frame_000.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/west/frame_001.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/west/frame_002.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/west/frame_003.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/west/frame_004.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/west/frame_005.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/west/frame_006.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/west/frame_007.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/west/frame_008.png"
+            ],
+            "south": [
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south/frame_000.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south/frame_001.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south/frame_002.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south/frame_003.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south/frame_004.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south/frame_005.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south/frame_006.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south/frame_007.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south/frame_008.png"
+            ],
+            "south-east": [
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-east/frame_000.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-east/frame_001.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-east/frame_002.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-east/frame_003.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-east/frame_004.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-east/frame_005.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-east/frame_006.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-east/frame_007.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-east/frame_008.png"
+            ],
+            "south-west": [
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-west/frame_000.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-west/frame_001.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-west/frame_002.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-west/frame_003.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-west/frame_004.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-west/frame_005.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-west/frame_006.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-west/frame_007.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/south-west/frame_008.png"
+            ],
+            "north-west": [
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-west/frame_000.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-west/frame_001.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-west/frame_002.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-west/frame_003.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-west/frame_004.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-west/frame_005.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-west/frame_006.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-west/frame_007.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-west/frame_008.png"
+            ],
+            "north-east": [
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-east/frame_000.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-east/frame_001.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-east/frame_002.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-east/frame_003.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-east/frame_004.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-east/frame_005.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-east/frame_006.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-east/frame_007.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/north-east/frame_008.png"
+            ],
+            "east": [
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/east/frame_000.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/east/frame_001.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/east/frame_002.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/east/frame_003.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/east/frame_004.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/east/frame_005.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/east/frame_006.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/east/frame_007.png",
+              "walk/animations/The_character_steps_forward_with_his_right_foot_sh/east/frame_008.png"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "character": {
+        "id": "7f4d4a07-d58a-47cf-bd4c-11a031568412",
+        "name": "fighting pose",
+        "prompt": "Barbaro Humano com machado nas costas.",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-09-12T04:41:13.584742+00:00"
+      },
+      "folder": "fighting_pose",
+      "frames": {
+        "rotations": {
+          "south": "fighting_pose/rotations/south.png",
+          "south-east": "fighting_pose/rotations/south-east.png",
+          "east": "fighting_pose/rotations/east.png",
+          "north-east": "fighting_pose/rotations/north-east.png",
+          "north": "fighting_pose/rotations/north.png",
+          "north-west": "fighting_pose/rotations/north-west.png",
+          "west": "fighting_pose/rotations/west.png",
+          "south-west": "fighting_pose/rotations/south-west.png"
+        },
+        "animations": {
+          "The_warrior_stands_firmly_in_place_his_body_gently": {
+            "west": [
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/west/frame_000.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/west/frame_001.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/west/frame_002.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/west/frame_003.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/west/frame_004.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/west/frame_005.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/west/frame_006.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/west/frame_007.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/west/frame_008.png"
+            ],
+            "north": [
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north/frame_000.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north/frame_001.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north/frame_002.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north/frame_003.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north/frame_004.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north/frame_005.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north/frame_006.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north/frame_007.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north/frame_008.png"
+            ],
+            "south": [
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south/frame_000.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south/frame_001.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south/frame_002.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south/frame_003.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south/frame_004.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south/frame_005.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south/frame_006.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south/frame_007.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south/frame_008.png"
+            ],
+            "north-west": [
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-west/frame_000.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-west/frame_001.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-west/frame_002.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-west/frame_003.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-west/frame_004.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-west/frame_005.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-west/frame_006.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-west/frame_007.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-west/frame_008.png"
+            ],
+            "south-east": [
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-east/frame_000.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-east/frame_001.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-east/frame_002.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-east/frame_003.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-east/frame_004.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-east/frame_005.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-east/frame_006.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-east/frame_007.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-east/frame_008.png"
+            ],
+            "east": [
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/east/frame_000.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/east/frame_001.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/east/frame_002.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/east/frame_003.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/east/frame_004.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/east/frame_005.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/east/frame_006.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/east/frame_007.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/east/frame_008.png"
+            ],
+            "south-west": [
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-west/frame_000.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-west/frame_001.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-west/frame_002.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-west/frame_003.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-west/frame_004.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-west/frame_005.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-west/frame_006.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-west/frame_007.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/south-west/frame_008.png"
+            ],
+            "north-east": [
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-east/frame_000.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-east/frame_001.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-east/frame_002.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-east/frame_003.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-east/frame_004.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-east/frame_005.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-east/frame_006.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-east/frame_007.png",
+              "fighting_pose/animations/The_warrior_stands_firmly_in_place_his_body_gently/north-east/frame_008.png"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "character": {
+        "id": "c6a9d68f-e057-4ca7-9a7a-25d1a63baca2",
+        "name": "caminhada segurando",
+        "prompt": "Barbaro Humano com machado nas costas.",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-09-12T17:19:27.931622+00:00"
+      },
+      "folder": "caminhada_segurando",
+      "frames": {
+        "rotations": {
+          "south": "caminhada_segurando/rotations/south.png",
+          "south-east": "caminhada_segurando/rotations/south-east.png",
+          "east": "caminhada_segurando/rotations/east.png",
+          "north-east": "caminhada_segurando/rotations/north-east.png",
+          "north": "caminhada_segurando/rotations/north.png",
+          "north-west": "caminhada_segurando/rotations/north-west.png",
+          "west": "caminhada_segurando/rotations/west.png",
+          "south-west": "caminhada_segurando/rotations/south-west.png"
+        },
+        "animations": {
+          "The_warrior_strides_forward_with_a_steady_rhythmic": {
+            "east": [
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/east/frame_000.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/east/frame_001.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/east/frame_002.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/east/frame_003.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/east/frame_004.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/east/frame_005.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/east/frame_006.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/east/frame_007.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/east/frame_008.png"
+            ],
+            "west": [
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/west/frame_000.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/west/frame_001.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/west/frame_002.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/west/frame_003.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/west/frame_004.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/west/frame_005.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/west/frame_006.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/west/frame_007.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/west/frame_008.png"
+            ],
+            "south-west": [
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-west/frame_000.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-west/frame_001.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-west/frame_002.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-west/frame_003.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-west/frame_004.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-west/frame_005.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-west/frame_006.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-west/frame_007.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-west/frame_008.png"
+            ],
+            "south-east": [
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-east/frame_000.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-east/frame_001.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-east/frame_002.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-east/frame_003.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-east/frame_004.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-east/frame_005.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-east/frame_006.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-east/frame_007.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south-east/frame_008.png"
+            ],
+            "south": [
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south/frame_000.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south/frame_001.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south/frame_002.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south/frame_003.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south/frame_004.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south/frame_005.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south/frame_006.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south/frame_007.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/south/frame_008.png"
+            ],
+            "north-west": [
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-west/frame_000.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-west/frame_001.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-west/frame_002.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-west/frame_003.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-west/frame_004.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-west/frame_005.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-west/frame_006.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-west/frame_007.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-west/frame_008.png"
+            ],
+            "north-east": [
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-east/frame_000.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-east/frame_001.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-east/frame_002.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-east/frame_003.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-east/frame_004.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-east/frame_005.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-east/frame_006.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-east/frame_007.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north-east/frame_008.png"
+            ],
+            "north": [
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north/frame_000.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north/frame_001.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north/frame_002.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north/frame_003.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north/frame_004.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north/frame_005.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north/frame_006.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north/frame_007.png",
+              "caminhada_segurando/animations/The_warrior_strides_forward_with_a_steady_rhythmic/north/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-09-12T19:16:16.573340"
+}

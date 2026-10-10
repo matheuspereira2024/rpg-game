@@ -1,0 +1,249 @@
+{
+  "group_id": "e84abe42-e012-4028-90c0-d98ef03da0af",
+  "states": [
+    {
+      "character": {
+        "id": "f1daba68-cd1b-440d-8d4c-37842b91b65e",
+        "name": "Idle",
+        "prompt": "Guerreiro humano com armadura, espada e escudo.",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-09-12T01:38:51.284849+00:00"
+      },
+      "folder": "Idle",
+      "frames": {
+        "rotations": {
+          "south": "Idle/rotations/south.png",
+          "south-east": "Idle/rotations/south-east.png",
+          "east": "Idle/rotations/east.png",
+          "north-east": "Idle/rotations/north-east.png",
+          "north": "Idle/rotations/north.png",
+          "north-west": "Idle/rotations/north-west.png",
+          "west": "Idle/rotations/west.png",
+          "south-west": "Idle/rotations/south-west.png"
+        },
+        "animations": {
+          "The_knight_stands_in_a_steady_guarded_stance_gentl": {
+            "south": [
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south/frame_000.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south/frame_001.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south/frame_002.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south/frame_003.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south/frame_004.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south/frame_005.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south/frame_006.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south/frame_007.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south/frame_008.png"
+            ],
+            "north": [
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north/frame_000.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north/frame_001.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north/frame_002.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north/frame_003.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north/frame_004.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north/frame_005.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north/frame_006.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north/frame_007.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north/frame_008.png"
+            ],
+            "west": [
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/west/frame_000.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/west/frame_001.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/west/frame_002.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/west/frame_003.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/west/frame_004.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/west/frame_005.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/west/frame_006.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/west/frame_007.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/west/frame_008.png"
+            ],
+            "north-east": [
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-east/frame_000.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-east/frame_001.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-east/frame_002.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-east/frame_003.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-east/frame_004.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-east/frame_005.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-east/frame_006.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-east/frame_007.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-east/frame_008.png"
+            ],
+            "south-east": [
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-east/frame_000.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-east/frame_001.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-east/frame_002.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-east/frame_003.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-east/frame_004.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-east/frame_005.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-east/frame_006.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-east/frame_007.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-east/frame_008.png"
+            ],
+            "north-west": [
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-west/frame_000.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-west/frame_001.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-west/frame_002.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-west/frame_003.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-west/frame_004.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-west/frame_005.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-west/frame_006.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-west/frame_007.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/north-west/frame_008.png"
+            ],
+            "east": [
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/east/frame_000.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/east/frame_001.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/east/frame_002.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/east/frame_003.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/east/frame_004.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/east/frame_005.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/east/frame_006.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/east/frame_007.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/east/frame_008.png"
+            ],
+            "south-west": [
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-west/frame_000.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-west/frame_001.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-west/frame_002.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-west/frame_003.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-west/frame_004.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-west/frame_005.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-west/frame_006.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-west/frame_007.png",
+              "Idle/animations/The_knight_stands_in_a_steady_guarded_stance_gentl/south-west/frame_008.png"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "character": {
+        "id": "2f7faf3d-cbdd-461a-a710-d74d0bbcc56e",
+        "name": "walk",
+        "prompt": "Guerreiro humano com armadura, espada e escudo.",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-09-12T04:31:47.719446+00:00"
+      },
+      "folder": "walk",
+      "frames": {
+        "rotations": {
+          "south": "walk/rotations/south.png",
+          "south-east": "walk/rotations/south-east.png",
+          "east": "walk/rotations/east.png",
+          "north-east": "walk/rotations/north-east.png",
+          "north": "walk/rotations/north.png",
+          "north-west": "walk/rotations/north-west.png",
+          "west": "walk/rotations/west.png",
+          "south-west": "walk/rotations/south-west.png"
+        },
+        "animations": {
+          "The_knight_advances_with_a_rhythmic_walking_gait_r": {
+            "south": [
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south/frame_000.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south/frame_001.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south/frame_002.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south/frame_003.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south/frame_004.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south/frame_005.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south/frame_006.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south/frame_007.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south/frame_008.png"
+            ],
+            "south-east": [
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-east/frame_000.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-east/frame_001.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-east/frame_002.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-east/frame_003.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-east/frame_004.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-east/frame_005.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-east/frame_006.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-east/frame_007.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-east/frame_008.png"
+            ],
+            "west": [
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/west/frame_000.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/west/frame_001.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/west/frame_002.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/west/frame_003.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/west/frame_004.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/west/frame_005.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/west/frame_006.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/west/frame_007.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/west/frame_008.png"
+            ],
+            "south-west": [
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-west/frame_000.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-west/frame_001.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-west/frame_002.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-west/frame_003.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-west/frame_004.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-west/frame_005.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-west/frame_006.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-west/frame_007.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/south-west/frame_008.png"
+            ],
+            "north-east": [
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-east/frame_000.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-east/frame_001.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-east/frame_002.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-east/frame_003.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-east/frame_004.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-east/frame_005.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-east/frame_006.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-east/frame_007.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-east/frame_008.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-east/frame_009.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-east/frame_010.png"
+            ],
+            "east": [
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/east/frame_000.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/east/frame_001.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/east/frame_002.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/east/frame_003.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/east/frame_004.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/east/frame_005.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/east/frame_006.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/east/frame_007.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/east/frame_008.png"
+            ],
+            "north-west": [
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-west/frame_000.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-west/frame_001.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-west/frame_002.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-west/frame_003.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-west/frame_004.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-west/frame_005.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-west/frame_006.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-west/frame_007.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north-west/frame_008.png"
+            ],
+            "north": [
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north/frame_000.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north/frame_001.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north/frame_002.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north/frame_003.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north/frame_004.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north/frame_005.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north/frame_006.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north/frame_007.png",
+              "walk/animations/The_knight_advances_with_a_rhythmic_walking_gait_r/north/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-09-12T19:16:03.430187"
+}

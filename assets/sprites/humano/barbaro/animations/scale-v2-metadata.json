@@ -1,0 +1,179 @@
+{
+  "version": 2,
+  "applied_at": "2026-09-16",
+  "target_median_height": 49,
+  "target_baseline_y": 58,
+  "canvas_size": "68x68",
+  "method": "One fixed nearest-neighbor scale per state and direction; all frames in each group retain their internal motion.",
+  "processed_frames": 600,
+  "groups": [
+    {
+      "state": "idle",
+      "direction": "east",
+      "source_median_height": 49.0,
+      "source_median_baseline_y": 58.0,
+      "relative_scale": 1.0
+    },
+    {
+      "state": "idle",
+      "direction": "north",
+      "source_median_height": 42.0,
+      "source_median_baseline_y": 55.0,
+      "relative_scale": 1.1667
+    },
+    {
+      "state": "idle",
+      "direction": "north-east",
+      "source_median_height": 45.0,
+      "source_median_baseline_y": 57.0,
+      "relative_scale": 1.0889
+    },
+    {
+      "state": "idle",
+      "direction": "north-west",
+      "source_median_height": 45.0,
+      "source_median_baseline_y": 57.0,
+      "relative_scale": 1.0889
+    },
+    {
+      "state": "idle",
+      "direction": "south",
+      "source_median_height": 47.0,
+      "source_median_baseline_y": 55.0,
+      "relative_scale": 1.0426
+    },
+    {
+      "state": "idle",
+      "direction": "south-east",
+      "source_median_height": 49.0,
+      "source_median_baseline_y": 58.0,
+      "relative_scale": 1.0
+    },
+    {
+      "state": "idle",
+      "direction": "south-west",
+      "source_median_height": 49.0,
+      "source_median_baseline_y": 58.0,
+      "relative_scale": 1.0
+    },
+    {
+      "state": "idle",
+      "direction": "west",
+      "source_median_height": 49.0,
+      "source_median_baseline_y": 58.0,
+      "relative_scale": 1.0
+    },
+    {
+      "state": "walk",
+      "direction": "east",
+      "source_median_height": 42.0,
+      "source_median_baseline_y": 54.0,
+      "relative_scale": 1.1667
+    },
+    {
+      "state": "walk",
+      "direction": "north",
+      "source_median_height": 40.0,
+      "source_median_baseline_y": 54.0,
+      "relative_scale": 1.225
+    },
+    {
+      "state": "walk",
+      "direction": "north-east",
+      "source_median_height": 41.0,
+      "source_median_baseline_y": 54.0,
+      "relative_scale": 1.1951
+    },
+    {
+      "state": "walk",
+      "direction": "north-west",
+      "source_median_height": 41.0,
+      "source_median_baseline_y": 54.0,
+      "relative_scale": 1.1951
+    },
+    {
+      "state": "walk",
+      "direction": "south",
+      "source_median_height": 43.0,
+      "source_median_baseline_y": 54.0,
+      "relative_scale": 1.1395
+    },
+    {
+      "state": "walk",
+      "direction": "south-east",
+      "source_median_height": 42.0,
+      "source_median_baseline_y": 54.0,
+      "relative_scale": 1.1667
+    },
+    {
+      "state": "walk",
+      "direction": "south-west",
+      "source_median_height": 42.0,
+      "source_median_baseline_y": 54.0,
+      "relative_scale": 1.1667
+    },
+    {
+      "state": "walk",
+      "direction": "west",
+      "source_median_height": 42.0,
+      "source_median_baseline_y": 54.0,
+      "relative_scale": 1.1667
+    },
+    {
+      "state": "attack",
+      "direction": "east",
+      "source_median_height": 44.0,
+      "source_median_baseline_y": 56.0,
+      "relative_scale": 1.1136
+    },
+    {
+      "state": "attack",
+      "direction": "north",
+      "source_median_height": 40.0,
+      "source_median_baseline_y": 54.0,
+      "relative_scale": 1.225
+    },
+    {
+      "state": "attack",
+      "direction": "north-east",
+      "source_median_height": 42.0,
+      "source_median_baseline_y": 55.0,
+      "relative_scale": 1.1667
+    },
+    {
+      "state": "attack",
+      "direction": "north-west",
+      "source_median_height": 42.0,
+      "source_median_baseline_y": 55.0,
+      "relative_scale": 1.1667
+    },
+    {
+      "state": "attack",
+      "direction": "south",
+      "source_median_height": 41.0,
+      "source_median_baseline_y": 54.0,
+      "relative_scale": 1.1951
+    },
+    {
+      "state": "attack",
+      "direction": "south-east",
+      "source_median_height": 44.0,
+      "source_median_baseline_y": 56.0,
+      "relative_scale": 1.1136
+    },
+    {
+      "state": "attack",
+      "direction": "south-west",
+      "source_median_height": 44.0,
+      "source_median_baseline_y": 56.0,
+      "relative_scale": 1.1136
+    },
+    {
+      "state": "attack",
+      "direction": "west",
+      "source_median_height": 44.0,
+      "source_median_baseline_y": 56.0,
+      "relative_scale": 1.1136
+    }
+  ]
+}
